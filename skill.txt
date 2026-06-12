@@ -1,0 +1,6 @@
+Skills that already have:
+1]C/C++ Programming
+2]Java Programming
+3]Python Programming
+4]Database Managemnet System [ mysql , oracle ]
+
